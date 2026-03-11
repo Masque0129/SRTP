@@ -1,0 +1,2 @@
+tow_diameter_mm,braid_angle_deg,num_tows_width,num_layers,tow_spacing_mm,width_mm,thickness_mm,length_mm,tow_cross_section,fiber_volume_fraction,output_format,mesh_resolution_pts_per_circum,pts_along_length,generate_inp,material_E_GPa,material_nu
+0.5,30,8,4,1.0,50,10,100,circle,0.6,OBJ,16,100,yes,70,0.33
